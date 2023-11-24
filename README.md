@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xvyashar
 - 👀 I’m interested in JS World and Mobile Developing
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning LPIC-1
 - 📫 How to reach me: [xvyashar@gmail.com](xvyashar@gmail.com)
 
 <!---
